@@ -1,0 +1,136 @@
+@media only screen and (max-width: 414px) {
+    #header {
+        width: 100%;
+    }
+
+    .background_head_text h1 {
+        width: 100%;
+        font-size: 47px;
+        margin-top: 76px;
+        text-align: center;
+    }
+
+    .background_head_text p {
+        width: 100%;
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .banner_clint_image img {
+        width: 100%;
+        height: auto;
+        margin-top: -45px;
+        margin-bottom: -15px;
+    }
+
+    .about_head h2 {
+        margin-top: 35px;
+    }
+
+    .about_text {
+        margin-top: 50px;
+    }
+
+    .about_text .abot_head_one {
+        text-align: center;
+        font-size: 25px;
+    }
+
+    .about_text .abot_head_one span {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .about_text .about_head_two {
+        width: 400px;
+        font-size: 18px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .years_image img {
+        width: 201px;
+        margin-left: -145px;
+        margin-top: -40px;
+    }
+
+    .years_image_text h1 {
+        font-size: 34px;
+        margin-top: -41px;
+        text-align: center;
+        margin-left: -229px;
+    }
+
+    .about_contact {
+        margin-top: 75px;
+    }
+
+    .about_contact h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .about_contact h1 span {
+        font-size: 22px;
+    }
+
+    .about_email{
+        margin-top: 0px;
+    }
+
+    .about_phone{
+        margin-top: 0px;
+    }
+
+    .about_location{
+        margin-top: 0px;
+    }
+
+    .services_head h2 {
+        margin-top: 35px;
+    }
+
+    .services_cart {
+        margin: 0 auto;
+        margin-bottom: 90px;
+    }
+
+    .project_title_about p {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .project_image_one img {
+        width: 100%;
+    }
+
+    .contact_title_text p {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .location_icon img {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+    }
+
+    .location_text h2 {
+        font-size: 25px;
+    }
+
+    .location_text a {
+        font-size: 23px;
+    }
+
+    .location_phone{
+        margin-top: -65px;
+    }
+
+    .location_email{
+        margin-top: -65px;
+    }
+
+
+
+  }
